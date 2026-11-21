@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hasibhasib12.github.io/Misiats-nails/sitemap.xml
